@@ -1,5 +1,7 @@
 # Reilly_Zink_3401week5
 
+**GameScene: Use left/right mouse click to move Player to the side. Raycast will detect and log object in the way.
+
 - Terrains are unique object types that can be molded, sculpted, and textured inside Unity to create
 detailed landscapes
 - As of 2018.3, multiple terrains can be linked together seamlessly
